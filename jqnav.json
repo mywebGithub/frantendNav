@@ -12,7 +12,7 @@
     {"title":"css3","url":"http://www.w3chtml.com/css3/","desc":"CSS3/CSS2/CSS 教程/参考/帮助"}
   ],
   "Javascript":[
-    {"title":"Javascript用户手册","url":"http://www.w3school.com.cn","desc":"用于在线查找Javascript的用户手册"}, {"title":"Javascript用户手册","url":"http://www.w3school.com.cn","desc":"用于在线查找Javascript的用户手册"},
+  {"title":"Javascript用户手册","url":"http://www.w3school.com.cn","desc":"用于在线查找Javascript的用户手册"},
     {"title":"Javascript的表单验证","url":"http://www.iteye.com/topic/1113704","desc":"设计页面的时候可能用到的表单验证"},
     {"title":"Javascript特效","url":"http://www.jsdaima.com/","desc":"JS的一些特效代码"},
     {"title":"Javascript特效","url":"http://www.lanrentuku.com/js/","desc":"JS的一些特效代码"}
